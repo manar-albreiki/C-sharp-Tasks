@@ -12,3 +12,4 @@ C:\Users\maaa7\OneDrive\Documents\Solution\solution03\project01\obj\Debug\net8.0
 C:\Users\maaa7\OneDrive\Documents\Solution\solution03\project01\obj\Debug\net8.0\project01.pdb
 C:\Users\maaa7\OneDrive\Documents\Solution\solution03\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
 C:\Users\maaa7\OneDrive\Documents\Solution\solution03\project01\obj\Debug\net8.0\ref\project01.dll
+C:\Users\maaa7\OneDrive\Documents\Solution\solution03\project01\obj\Debug\net8.0\project01.sourcelink.json

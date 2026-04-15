@@ -83,25 +83,98 @@ namespace project01
             //}
 
             // task 5
-            int balance = 1000;
-           
-            Console.WriteLine("please enter the withdrawal amount");
-            int amount = Convert.ToInt32(Console.ReadLine());
-            int remaining = balance - amount;
+            //int balance = 1000;
 
-            if (amount <= 0)
+            //Console.WriteLine("please enter the withdrawal amount");
+            //int amount = Convert.ToInt32(Console.ReadLine());
+            //int remaining = balance - amount;
+
+            //if (amount <= 0)
+            //{
+            //    Console.WriteLine("Invalid Amount");
+            //}
+            //else if (amount >= balance)
+            //{
+            //    Console.WriteLine("Insufficient Balance");
+            //}
+            //else if (amount <balance || amount == balance)
+            //{
+            //    Console.WriteLine("Withdrawal Successful");
+            //    Console.WriteLine("the remaining balance = "+ remaining);
+            //}
+
+            //===============================================================
+
+            //Task 1 – Day Name Printer
+            //Console.WriteLine("please enter a number");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //switch (num)
+            //{
+            //    case 1:
+            //        Console.WriteLine("Monday");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Tuseday");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Wednesday");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("Thursday");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("Friday");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("saturday");
+            //        break;
+            //    case 7:
+            //        Console.WriteLine("Sunday");
+            //        break;
+            //    default:
+            //        Console.WriteLine("invalid number");
+            //        break;
+            //}
+
+
+            //Task 2 – Multiplication Table
+            //Console.WriteLine("Enter a number:");
+            //int num = Convert.ToInt32(Console.ReadLine());
+
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    Console.WriteLine($"{num} x {i} = {num * i}");
+            //}
+
+            //Task 3 – Countdown Timer
+            Console.WriteLine("Enter a positive number:");
+            int num = Convert.ToInt32(Console.ReadLine());
+if (num <= 0)
             {
-                Console.WriteLine("Invalid Amount");
+                Console.WriteLine("Please enter a positive number");
             }
-            else if (amount >= balance)
+else
             {
-                Console.WriteLine("Insufficient Balance");
+                while(num >= 1)
+                {
+                    Console.WriteLine(num);
+                    num--;
+                }
+                Console.WriteLine("Go");
             }
-            else if (amount <balance || amount == balance)
-            {
-                Console.WriteLine("Withdrawal Successful");
-                Console.WriteLine("the remaining balance = "+ remaining);
-            }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
         }
