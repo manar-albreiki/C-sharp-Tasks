@@ -147,13 +147,15 @@ namespace project01
             //}
 
             //Task 3 – Countdown Timer
-            Console.WriteLine("Enter a positive number:");
+
+            Console.WriteLine("Enter a positive number:"); 
             int num = Convert.ToInt32(Console.ReadLine());
-if (num <= 0)
+
+            if (num <= 0)
             {
                 Console.WriteLine("Please enter a positive number");
             }
-else
+            else
             {
                 while(num >= 1)
                 {

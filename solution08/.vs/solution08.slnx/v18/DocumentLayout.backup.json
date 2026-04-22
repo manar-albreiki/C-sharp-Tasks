@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\solution08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C5672B7-2421-4DF8-AD2D-EEE436E8E83F}|project01\\project01.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\solution08\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C5672B7-2421-4DF8-AD2D-EEE436E8E83F}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\solution08\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\solution08\\project01\\Program.cs",
               "RelativeDocumentMoniker": "project01\\Program.cs",
-              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\solution08\\project01\\Program.cs",
-              "RelativeToolTip": "project01\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAIAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\solution08\\project01\\Program.cs*",
+              "RelativeToolTip": "project01\\Program.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T05:04:11.688Z",
               "EditorCaption": ""

@@ -32,17 +32,20 @@
             //Console.WriteLine("enter the word");
             //string x = Console.ReadLine();
             //string y = "";
-            //for (int i = x.Length-1;i>=0 ; i--)
+            //for (int i = x.Length - 1; i >= 0; i--)
             //{
             //    y += x[i];
             //}
             //if (y == x)
             //{
             //    Console.WriteLine("perfect word");
-            //} else
+            //}
+            //else
             //{
             //    Console.WriteLine("not perfect word");
-            //}
+            }
+
+        char c = "A"
             #endregion
 
 
