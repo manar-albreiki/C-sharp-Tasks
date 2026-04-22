@@ -1,0 +1,15 @@
+muscat
+London
+NewYork
+Rome
+muscat
+London
+NewYork
+Rome
+
+ Parismuscat
+London
+NewYork
+Rome
+
+ Paris
