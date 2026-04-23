@@ -1,0 +1,10 @@
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.Form1.resources
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\maaa7\OneDrive\Documents\Solution\solution11\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
